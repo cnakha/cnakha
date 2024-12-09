@@ -3,7 +3,7 @@ I'm a Junior at the University of Illinois Chicago, studying Computer Science an
 
 Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
 
-# My Tech Stack:
+My Tech Stack:
 Programming Languages: Python, C/C++, JavaScript, Java, HTML, CSS
 Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, Node.js (basic)
 Development Tools: Jupyter Notebooks, Google Colab
