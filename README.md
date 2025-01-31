@@ -1,20 +1,20 @@
-## Hi there I'm Cindy!👋
+# Hi there I'm Cindy!👋
 I'm a Junior at the University of Illinois Chicago, studying Computer Science and Design who has an interest in machine learning, data science, and UI/UX design. I am passionate about using my skills to create innovative tools and perform data analysis in biomedical and media production spaces. 
 
-Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
+Currently, I'm focusing on building machine learning models and diving deeper into data science as well as explore the world of wearable technology. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
 
-My Tech Stack:
+### My Tech Stack:
 Programming Languages: Python, C/C++, JavaScript, Java, HTML, CSS
 Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, React.js, Node.js (basic)
 Development Tools: Jupyter Notebooks, Google Colab
 Version Control: Git, GitHub
 
-Featured Projects Below:
-🌱 [DXC Technology] Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for [DXC Technology] for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [https://github.com/jennifer-z-1/DXC_Tech_1A]
+### Featured Projects Below:
++ Check out my team's project repository for the real-world ML project we worked on for DXC Technology for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/jennifer-z-1/DXC_Tech_1A
 
-📫 How to Reach Me:
-Email: cindynakh@gmial.com
-LinkedIn: https://www.linkedin.com/in/cindy-nakhammouane-348a63247/
+### 📫 How to Reach Me:
++ Email: cindynakh@gmial.com
++ LinkedIn: https://www.linkedin.com/in/cindy-nakhammouane-348a63247/
 <!--
 **cnakha/cnakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
