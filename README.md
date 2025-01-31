@@ -1,11 +1,11 @@
 ## Hi there I'm Cindy!👋
-I'm a Junior at the University of Illinois Chicago, studying Computer Science and Design who has an interest in machine learning, tech art, and UI/UX. I am passionate about using my skills to create innovative and new tools in the biomedical and media production spaces. 
+I'm a Junior at the University of Illinois Chicago, studying Computer Science and Design who has an interest in machine learning, data science, and UI/UX design. I am passionate about using my skills to create innovative tools and perform data analysis in biomedical and media production spaces. 
 
 Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
 
 My Tech Stack:
 Programming Languages: Python, C/C++, JavaScript, Java, HTML, CSS
-Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, Node.js (basic)
+Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, React.js, Node.js (basic)
 Development Tools: Jupyter Notebooks, Google Colab
 Version Control: Git, GitHub
 
