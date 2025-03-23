@@ -11,6 +11,8 @@ Version Control: Git, GitHub
 
 ### Featured Projects Below:
 + Check out my team's project repository for the real-world ML project we worked on for DXC Technology for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/jennifer-z-1/DXC_Tech_1A
++ Here's another cool project created with a team as part of the Break Through Tech AI Program Algorithmic Justice League Equitable AI for Dermatology Kaggle competition (placed 15 out of 75).
+https://github.com/TiffWid/BTT_Salicylic_Acid/blob/main/Equitable_AI_For_Dermatology_.ipynb 
 
 ### 📫 How to Reach Me:
 + Email: cindynakh@gmial.com
