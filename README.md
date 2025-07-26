@@ -1,11 +1,11 @@
 # Hi there I'm Cindy!👋
-I'm a Junior at the University of Illinois Chicago, studying Computer Science and Design who has an interest in fullstack development, machine learning, data science, and UI/UX design. I am passionate about using my skills to create innovative tools from biomedical to fintech and to media production spaces. 
+I'm a Senior at the University of Illinois Chicago, studying Computer Science and Design who has an interest in fullstack development, machine learning, data science, and UI/UX design. I am passionate about using my skills to create innovative tools from biomedical to fintech and to media production spaces. 
 
 Currently, I'm focusing on building machine learning models and diving deeper into data science as well as explore the world of wearable technology. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
 
 ### My Tech Stack:
-Programming Languages: Python, C/C++, C#, JavaScript, SQL <br/>
-Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, React.js, Node.js <br/>
+Programming Languages: Python, C/C++, C#, Typescript, Java, JavaScript, SQL <br/>
+Libraries & Frameworks: Node.js, React.js, Three.js, Tensorflow, Keras, Pandas, Pytorch, NumPy, Scikit-learn, Seaborn <br/>
 Development Tools: Jupyter Notebooks, Google Colab <br/>
 Version Control: Git, GitHub
 
